@@ -24,7 +24,7 @@ This site can be deployed on either GitHub Pages or Vercel.
 2. Set Source to the main branch
 3. GitHub will automatically read the CNAME file and configure the custom domain
 4. Update your domain's DNS settings:
-   - Add a CNAME record for `www` pointing to `codewithTanzeel.github.io`
+   - Add a CNAME record for `www` pointing to `CodewithTanzeel.github.io`
 5. Wait for DNS propagation
 6. GitHub will automatically provision an SSL certificate
 
